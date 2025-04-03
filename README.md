@@ -4,3 +4,4 @@ Work in progress.
 
 pip freeze > requirements.txt
 .\tensorflow_env\Scripts\activate
+.\rcnn_env\Scripts\activate
