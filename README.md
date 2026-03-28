@@ -71,7 +71,7 @@ Below are example prediction visualizations from the notebook.
 
 ```bash
 Safety-Helmet-Object-Detection/
-│── Faster_RCNN3.ipynb
+│── Safety_Helmet_Object_Detection_FasterRCNN.ipynb
 │── output_1.png
 │── output_2.png
 │── requirements.txt
